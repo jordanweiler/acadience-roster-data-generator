@@ -29,4 +29,4 @@ or
 node path/to/acadience-roster-data-generator
 ```
 
-After running the generator, a directory should be created in your current working directory called "roster-import-sample-TIMESTAMP" that contains the sample data CSV.
+After running the generator, a directory should be created in your current working directory called "roster-import-sample-TIMESTAMP" that contains the sample data CSVs.
