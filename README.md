@@ -29,4 +29,6 @@ or
 node path/to/acadience-roster-data-generator
 ```
 
-After running the generator, a directory should be created in your current working directory called "roster-import-sample-TIMESTAMP" that contains the sample data CSVs.
+After running the generator, a directory should be created in your current working directory called "roster-import-{name}={size}-TIMESTAMP" that contains the sample data CSVs.
+
+You can updaet the values inside the `main()` function to create different sized datasets. Each dataset created will generate a random name for the district.
